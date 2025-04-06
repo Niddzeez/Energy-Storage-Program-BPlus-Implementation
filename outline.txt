@@ -1,0 +1,7 @@
+├── main.c                    # Menu-driven system
+├── transaction.c/.h          # Transaction + B+ Tree logic
+├── seller.c/.h               # Seller data handling
+├── buyer.c/.h                # Buyer data handling
+├── buyersellerpair.c/.h      # Buyer-Seller Pair data handling
+├── transactions.csv          # Persistent transaction records
+├── files.c/.h                # All the file operations required
