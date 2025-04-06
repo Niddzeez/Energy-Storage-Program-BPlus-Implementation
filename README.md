@@ -74,10 +74,10 @@ gcc main.c transaction.c seller.c buyer.c buyersellerpair.c files.c -o energy_sy
 ```
 ---
 ## 📌 Future Enhancements
-Export reports in Excel or PDF
-Build a GUI using GTK or Qt
-Add role-based access for buyer/seller/admin
-Simulate live trading updates using threads
+-Export reports in Excel or PDF
+-Build a GUI using GTK or Qt
+-Add role-based access for buyer/seller/admin
+-Simulate live trading updates using threads
 
 ---
 
@@ -86,6 +86,6 @@ Special thanks to our faculty and peers who guided the development of this proje
 
 ---
 ## 🧑‍💻 Author
-Nidhi Lodha
-Second Year CSE Student, VNIT Nagpur
-GitHub: github.com/niddzeez
+-Nidhi Lodha
+-Second Year CSE Student, VNIT Nagpur
+-GitHub: github.com/niddzeez
