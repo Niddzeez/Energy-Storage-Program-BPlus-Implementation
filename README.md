@@ -72,20 +72,25 @@ Ensure you have GCC or any standard C compiler. Run:
 gcc main.c transaction.c seller.c buyer.c buyersellerpair.c files.c -o energy_system
 ./energy_system
 ```
----
 ## 📌 Future Enhancements
--Export reports in Excel or PDF
--Build a GUI using GTK or Qt
--Add role-based access for buyer/seller/admin
--Simulate live trading updates using threads
+
+- Export reports in Excel or PDF  
+- Build a GUI using GTK or Qt  
+- Add role-based access for buyer/seller/admin  
+- Simulate live trading updates using threads  
 
 ---
 
 ## 🙌 Acknowledgments
-Special thanks to our faculty and peers who guided the development of this project. It was created as part of an academic curriculum to explore systems programming and data structures.
+
+Special thanks to our faculty and peers who guided the development of this project.  
+It was created as part of an academic curriculum to explore systems programming and data structures.  
 
 ---
+
 ## 🧑‍💻 Author
--Nidhi Lodha
--Second Year CSE Student, VNIT Nagpur
--GitHub: github.com/niddzeez
+
+- Nidhi Lodha  
+- Second Year CSE Student, VNIT Nagpur  
+- GitHub: [github.com/niddzeez](https://github.com/niddzeez)
+
